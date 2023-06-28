@@ -1,0 +1,25 @@
+
+header {
+    border-style: dotted;
+    border-color: aqua;
+    margin: 10px;
+    background-color: blue;
+    display: flex;
+}
+
+div {
+    background-color: brown;
+    padding: 10px;
+}
+
+div > h1 {
+    display: inline-block;
+    text-align: center;
+}
+
+img {
+    display: inline-block;
+    margin: 0 auto;
+    height: auto;
+    max-width: 200px;
+}
